@@ -23,7 +23,7 @@ HonorKeepInventoryOnDeath: false
 # Defines the max amount of columns for a backpack.
 # The size of the user's backpack will be defined by the permission, permissions for bigger backpacks than this value will be ignored.
 # Can be set to anything > 0. Backpacks with more than 6 columns will have a broken UI! Sizes bigger than 9 may not work with all permission plugins.
-MaxSize: 6
+MaxSize: 26
 # Defines how backpacks get compressed when the previous permissions allowed for a bigger backpack.
 # Options:
 #   Fast: Only free slots will be used
